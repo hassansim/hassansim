@@ -7,8 +7,8 @@
     </a>
   </p>
   
-  <p>👯 Expertise in Laravel, React, Node.js, Express, NestJS, Next.js, MySQL, PostgreSQL</p>
-  <p>🌱 Currently learning advanced concepts in Laravel</p>
+  <p>👯 Expertise in PHP, Python, Laravel, React, Node.js, Express, NestJS, Next.js, MySQL, PostgreSQL</p>
+  <p>🌱 Currently learning System Design, Backend Development, Cloud Computing, and Data Structures & Algorithms.</p>
   <p>💬 Always happy to help and collaborate</p>
   <p>📫 Reach me at: <a href="mailto:hello@hassansim.com">hello@hassansim.com</a></p>
   <p>⚡ Quote: "The only place where SUCCESS comes before WORK is in the dictionary."</p>
